@@ -27,13 +27,13 @@ footer{
     display:flex;
     flex-direction: column;
     justify-content: center;
-}
-.html5 img{
     width: 30px;
 }
+
 .trespuntos {
     display:flex;
     align-self: flex-end;
+    width: 490px;
 }
 .trespuntos img{
     width: 30px;
@@ -54,9 +54,6 @@ footer{
     flex-direction: row;
     gap: 20px;
     justify-content: flex-start;
-}
-#bookmark{
-    margin-left: 370px;
 }
 .footer-text{
     overflow: hidden;
